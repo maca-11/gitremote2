@@ -1,0 +1,3 @@
+
+def byebye():
+   print("さようなら")
